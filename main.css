@@ -4,3 +4,8 @@ align-items: center;}
 nav:hover{color: black; background-color: transparent;}
 ul{display: flex;}
 li{padding-left: 30px; list-style: none;}
+form{width: 600px; margin: 20px auto;}
+.form-group input{display: block; width: 100%; padding: 10px 5px; outline: none;
+border: 1px solid whitesmoke; margin-bottom: 10px;}
+.form-group button{padding: 10px 20px; background-color: red; cursor: pointer; border: none;
+outline: none; color: white; font-size: 1rem; border: none;}
