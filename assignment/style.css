@@ -57,3 +57,10 @@ code{direction: ltr; unicode-bidi: bidi-override; word-wrap: normal; word-break:
 #purp{color: white; background-color: purple; padding: 10px; width: 50px; fill: currentColor; height: 50px; border: 0px; border-radius: 10px; vertical-align: middle;}
 #boot{width: 100%; }
 #red{color: white; background-color: #dd3f4e; padding: 10px; width: 50px; fill: currentColor; height: 50px; border: 0px; border-radius: 10px; vertical-align: middle;}
+/* footer  */
+footer{padding-bottom: 50px; background-color: whitesmoke; color: #53505c; padding-top: 50px;}
+.lnk, .dsgn{margin-left: 100px; margin-right: 100px;}
+.lnk{padding-bottom: 20px;}
+footer a{color: #53505c; font-weight: 550;}
+footer a:hover{color: blue; font-weight: 550;}
+.lnk a{padding-right: 15px;}
