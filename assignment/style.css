@@ -53,4 +53,5 @@ code{direction: ltr; unicode-bidi: bidi-override; word-wrap: normal; word-break:
 .o{color: #555;}
 .c{color: #727272; word-break: break-all;}
 .s{color: #d73038; word-wrap: normal; word-break: keep-all; overflow: scroll;}
-#purp{color: white; background-color: purple;}
+#purp{color: white; background-color: purple; padding: 10px; width: 50px; fill: currentColor; height: 50px; border: 0px; border-radius: 10px; vertical-align: middle;}
+#boot{width: 100%; }
