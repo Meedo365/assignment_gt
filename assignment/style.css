@@ -36,6 +36,7 @@ nav{background-color:#7952b3; color: #ead9e2; text-transform: capitalize;}
 .big{font-size: 20px; line-height: 35px;}
 .small{font-size: 20px; line-height: 30px; padding-top: 10px; padding-bottom: 40px;}
 .npm{color: blue; border: none; padding: 0px; text-decoration: underline; font-size: 18px;}
+.np{color: blue; border: none; padding: 0px; text-decoration: underline; font-size: inherit}
 .docs{text-decoration: none; border: 1px solid; padding: 15px; font-size: 20px; border-radius: 8px;}
 .docs:hover{background-color: blue; color: white; border-radius: 8px; border: 1px solid white;}
 .view2{margin-top: 60px;}
@@ -55,3 +56,4 @@ code{direction: ltr; unicode-bidi: bidi-override; word-wrap: normal; word-break:
 .s{color: #d73038; word-wrap: normal; word-break: keep-all; overflow: scroll;}
 #purp{color: white; background-color: purple; padding: 10px; width: 50px; fill: currentColor; height: 50px; border: 0px; border-radius: 10px; vertical-align: middle;}
 #boot{width: 100%; }
+#red{color: white; background-color: #dd3f4e; padding: 10px; width: 50px; fill: currentColor; height: 50px; border: 0px; border-radius: 10px; vertical-align: middle;}
