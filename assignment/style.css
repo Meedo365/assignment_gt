@@ -12,7 +12,7 @@ nav{background-color:#7952b3; color: #ead9e2; text-transform: capitalize;}
 #down{padding-left: 0px; border: 1px solid #f6bfaa; padding: 10px; color: #f6bfaa; border-radius: 7px;}
 #down:hover{background-color: #f6bfaa; color: black;}
 .logo img{width: 40px; padding-top: 10px; padding-bottom: 10px;}
-.lg img{width: 23px; background-color: #7952b3;}
+.lg svg{width: 20px; background-color: #7952b3;}
 /* main  */
 .banner{background-image: url(/img/bootstrap-logo-screenshot.png); object-position: center; 
    background-repeat: no-repeat; object-fit: contain; background-position: right;
